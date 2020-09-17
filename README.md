@@ -66,6 +66,7 @@ Weekly homework assignments will be assigned to you via Canvas. Each assignment 
 Partial credit will be given for incomplete assignments turned in on time, based on the level of completion.
 To receive full credit, your assignment should display the specified functionality and if specified, use specific techniques learned during class.
 Late homework assignments will be accepted at 80% of total possible grade (80 points).
+Participation activities will be worth 20 points.
 
 ## Final Presentation
 
