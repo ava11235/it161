@@ -35,4 +35,4 @@ Introduction to JavaScript
 Example code [here](https://github.com/ava11235/it161/blob/master/example.html)
 
 ## Result
-Result ![here](https://github.com/ava11235/it161/blob/master/week1-page-screenshot.JPG)
+![here](https://github.com/ava11235/it161/blob/master/week1-page-screenshot.JPG)
