@@ -46,7 +46,11 @@ ZyBooks Digital textbook
 2. Enter zyBook code: SEATTLECENTRALIT161MeredithFall2020
 3. Subscribe
 
-	
+Web hosting option 1 (Free): 
+https://gist.github.com/TylerFisher/6127328
+
+Web hosting option 2(Paid, but will also host PHP): 
+
 Web hosting server: https://www.dreamhost.com/hosting/shared/
 
 Domain name: https://www.dreamhost.com/domains/  
