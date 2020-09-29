@@ -60,7 +60,8 @@ https://help.dreamhost.com/hc/en-us/articles/360002284771-What-is-a-dreamhosters
 
 
 ## Software we will use in class					
-Text editing program: Visual Studio Code  https://code.visualstudio.com/
+Code editing program: Visual Studio Code  https://code.visualstudio.com/
+Cloud based code editor: https://repl.it/languages/html
 
 FTP program: Filezilla (Client) https://filezilla-project.org/download.php?platform=win64
 
