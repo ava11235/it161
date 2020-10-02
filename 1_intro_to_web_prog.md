@@ -32,7 +32,7 @@ Introduction to CSS
 Introduction to JavaScript
 
 ## Example
-Example code [here](https://github.com/ava11235/it161/blob/master/example.html)
+Example code [here](https://ava11235.github.io/it161/)
 
 ## Result
 ![here](https://github.com/ava11235/it161/blob/master/week1-page-screenshot.JPG)
