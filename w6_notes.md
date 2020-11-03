@@ -36,25 +36,25 @@ For this class you will not be working with Wordpress. It is easy to install Wor
 
 https://www.dreamhost.com/hosting/shared/
 
-Here is a tutorial on uploading your website to Dreamhost. Scroll down to Scroll down to the section Uploading website files in an FTP client)
+Here is a tutorial on uploading your website to Dreamhost. Scroll down to the section Uploading website files in an FTP client)
 https://help.dreamhost.com/hc/en-us/articles/215613657-How-do-I-upload-my-site-to-DreamHost-
 
 Login Panel: When you sign up with Dreamhost, Dreamhost will create your login with your email and password. You will be logging in to Dreamhost via the panel to manage your domains and hosting: https://panel.dreamhost.com/
 
 However, you will need a different login credentials for FTP.  Those will be  emailed to you by Dreamhost. Keep an eye for Dreamhost messages after you have setup and paid for your account. 
 
-Due to DNS propagatio it can take up to 24 hours for your domain to be available for viewing. You will see a "Coming soon" message until your domain is ready.
+Due to DNS propagation it can take up to 24 hours for your domain to be available for viewing. You will see a "Coming soon" message until your domain is ready.
 
 
 ## GitHub Pages ##
 
-Github pages is a great free solution for hosting static web pages. You can host more than one website by creating a repository for each website.
-and adding index.html to each repository.
+Github pages is a great free solution for hosting static web pages. You can host more than one website by creating a repository for each website 
+and adding index.html (plus other html and css files as needed) to each repository.
 https://pages.github.com/
 
 
 ## FileZilla SFTP client ## 
-One of the ways to upload files to a web server is by using an FTP client such as FileZilla.
+One of the ways to upload files to a web server is by using an FTP client such as FileZilla. FTP stand for file transfer protocol. The S in SFTP is for Secure. You want to always use the Secure option, even though it doesn't come as default.
 https://filezilla-project.org/download.php?platform=win64
 
 
