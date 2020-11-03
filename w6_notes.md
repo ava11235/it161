@@ -11,7 +11,7 @@ Two hosting solutions to consider are Dreamhost (paid) and GitHub (free, but mor
 ## What is a web server? ##
 
 A web server is a computer configured with web server software to which you will upload your website's files such as HTML, CSS and JavaScript files.
-The web server is connected to the internet and whenever a browser makes an HTTP requiest, the web server accepts the requests, processes it, and sends it back to the browser.
+The web server is connected to the internet and whenever a browser makes an HTTP request, the web server accepts the requests, processes it, and sends it back to the browser.
 For more details see [this](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server) article.
 
 In addition to web hosting plan on a web server, you will need a domain. 
