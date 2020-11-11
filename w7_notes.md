@@ -59,4 +59,7 @@ Special effects
 ## Fixed vs. fluid width layout 
 [here](https://github.com/ava11235/it161/blob/master/images/layouts.JPG)
 
+## Responsive example
+[here](https://stanimeredith.dreamhosters.com/responsive/index.html)
+
 
