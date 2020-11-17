@@ -24,5 +24,5 @@ Code a responsive CSS Grid layout from scratch.
 Upon successful completion of the material students will be able to create a responsive CSS grid layout from scratch.
 
 ## Responsive Grid example
-[here](https://stanimeredith.dreamhosters.com/responsive/index.html)
+[here](https://ava11235.github.io/it161_w8/index.html)
 
