@@ -57,7 +57,9 @@ CSS styled forms appear more interactive and can be easier to use if the control
 
 ## Reference
 [W3Schools CSS Animations](https://www.w3schools.com/css/css3_animations.asp)
+
 [W3Schools CSS Transitions](https://www.w3schools.com/css/css3_transitions.asp)
+
 [W3Schools CSS Transformations](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 
 
