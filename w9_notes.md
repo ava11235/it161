@@ -70,5 +70,5 @@ Upon successful completion of the material students will be able to apply the fo
 CSS Animations, transitions and transformations
 CSS styling for forms
 
-## Responsive Grid example
-[here](https://ava11235.github.io/it161_w8/index.html)
+## Example: Styled form 
+[here](https://ava11235.github.io/week9/index.html)
