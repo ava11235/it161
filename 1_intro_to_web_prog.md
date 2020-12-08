@@ -2,7 +2,7 @@
 
 Review the syllabus and post any questions on the Q&A forum
 
-zyBooks Ch 1 Introduction to Web Programming
+zyBook Ch 1 Introduction to Web Programming
 
 ## Reference
 [HTML 5 Reference](https://cdn.rawgit.com/hostinger/banners/53bd21f8/tutorials/pdf/The-Complete-HTML-Cheat-Sheet-(Black-and-White)-Print-Version.pdf)

@@ -22,8 +22,8 @@ Upon successfully completing this course students will have conceptual and pract
 * Introduction to Web Programming
 * Directory structure, file/folder naming conventions
 * File Transfer Protocol (FTP) 
-* HTML document structure and formatting
-* Headings, paragraphs and text formatting
+* HTML document structure and formatting.
+* Headings, paragraphs and text formatting.
 * Ordered, unordered, and nested lists
 * Internal and external links
 * Image file types, and their usage
@@ -39,7 +39,7 @@ Upon successfully completing this course students will have conceptual and pract
 * Basic PHP overview
 * Create a basic website with styled text, images, links, navigation and forms
 
-## Required materials
+## Required materials 
 ZyBooks Digital textbook 
 
 1. Sign in or create an account at [learn.zybooks.com](https://learn.zybooks.com/)
